@@ -5,10 +5,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange.svg)
-![Issues](https://img.shields.io/github/issues/yourusername/fams?color=important)
-![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/fams?color=brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/fams)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/fams)
+![Issues](https://img.shields.io/github/issues/Xer0oo7/FAMS?color=important)
+![Pull Requests](https://img.shields.io/github/issues-pr/Xer0oo7/FAMS?color=brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/Xer0oo7/FAMS)
+![Repo Size](https://img.shields.io/github/repo-size/Xer0oo7/FAMS)
 
 ---
 
